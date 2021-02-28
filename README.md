@@ -1,8 +1,8 @@
 # final_project : Systeme de gestion d'une librairy  
 
-L'objectif du projet est de mettre en pratique les notions abordées en cours sur la manupilation  des requêtes nottament en SQL et DSL sur les differents tables que nous avons disposition.
+L'objectif du projet est de mettre en pratique les notions abordées en cours sur la manipulation des requêtes notamment en SQL et DSL sur les différentes tables que nous avons disposition.
 
-les reponses aux differentes questions se trouvent dans le document script avec les commentaires des resultats. Bonne lecture  
+Les réponses aux différentes questions se trouvent dans le document script avec les commentaires des résultats. Bonne lecture ! 
 # les descriptions des tables 
 
 **Book :**  représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur book représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.).  
